@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "adaptivescraper"
+version = "0.1.0"
+description = ""
+authors = ["Ikey168 <122488906+Ikey168@users.noreply.github.com>"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
